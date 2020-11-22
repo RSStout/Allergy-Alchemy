@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Allergy Alchemy
+
+Follow along as I find exciting recipes to adapt so that they're free of allergens! When making a recipe I will provide a link to the website or I'll list which book it's from along with the page number so you can try it out yourself. If the recipe is only available in print form I won't be publishing it here because of copyright laws, but I will mention which ingredients I'm swapping out and I'll mention what I'm replacing them with.
 
 You can use the [editor on GitHub](https://github.com/RSStout/AllergyAlchemy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
